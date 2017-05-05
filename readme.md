@@ -2,10 +2,7 @@
 
 The video below shows a simulation of electrons orbiting the nucleus of various atoms. 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GOOTswCIGyM
-" target="_blank"><img src="http://img.youtube.com/vi/GOOTswCIGyM/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+[![YouTube](https://img.youtube.com/vi/GOOTswCIGyM/0.jpg)](https://www.youtube.com/watch?v=GOOTswCIGyM)
 
 Electrons are coloured blue in the video while the nucleus is coloured red. The orbits of electrons are known as *shells*. Orbital shells are numbered from 1..n. The lower the number, the closer the shell is to the nucleus. Each  shell can hold a fixed number of electrons. In this simulation, the number of electrons per shell for different elements is given by a comma seperated string of numbers. For example, hydrogen atoms have a value of "1" meaning that hydrogen atoms have 1 electron orbiting in shell 1. The value for aluminium is "2,8,3" meaning that aluminium atoms have 2 electrons in shell 1, 8 electrons in shell 2 and 3 electrons in shell 3. The value for Strontium is "2,8,18,8,2". This means that strontium atoms have 2 electrons in shell 1, 8 electrons in shell 2, 18 electrons in shell 3 and so on. Here is a [wikipedia article about electron shells](https://en.wikipedia.org/wiki/Electron_shell) that gives the full table of the number of electrons per shell for all the elements if you want to know more. 
 
