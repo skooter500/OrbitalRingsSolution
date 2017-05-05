@@ -97,7 +97,7 @@ public class FPSController : MonoBehaviour
             
 
         Yaw(mouseX * speed * Time.deltaTime);
-        Pitch(mouseY * speed * Time.deltaTime);
+        Pitch(- mouseY * speed * Time.deltaTime);
 
         /*float joyX = Input.GetAxis("Joy X");
         float joyY = Input.GetAxis("Joy Y");

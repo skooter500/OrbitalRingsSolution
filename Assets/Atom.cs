@@ -7,12 +7,13 @@ public class Atom : MonoBehaviour {
     private List<int> electronShells = new List<int>();
 
     public string electronsPerShell;
-
+    public string atom;
     public GameObject protonPrefab;
     public GameObject electronPrefab;
 
 	// Use this for initialization
 	void Start () {
+        GetComponent<TextMesh>().text = atom + "\n" + electronsPerShell;
         if (electronsPerShell != null)
         {
 
