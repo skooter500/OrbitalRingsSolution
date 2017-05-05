@@ -1,6 +1,6 @@
 # Game Engines 2 Lab Test 1 2017
 
-The video below shows a simulation of electrons orbiting the nucleus of various atoms. 
+The video below shows a simulation of electrons orbiting the nucleus of various atoms:
 
 [![YouTube](https://img.youtube.com/vi/GOOTswCIGyM/0.jpg)](https://www.youtube.com/watch?v=GOOTswCIGyM)
 
@@ -21,6 +21,8 @@ public GameObject electronPrefab;
 - *Create an empty public repository on github and commit your project to it regularly throughout the test in case something goes wrong and you need to roll back.*
 - This is a closed book test. No use of Google or instant messaging
 - [Submit your git repository link here](https://docs.google.com/forms/d/e/1FAIpQLSfnXDA2b9cWTneuvisfbRgHZwlccT3BJiR-MiRxvmk1M-pncQ/viewform)
+
+You can use ```string.Split``` to split a comma seperated string and ```int.parse``` to convert a string to an integer.
 
 # Marking Scheme
 | Description | Marks |
