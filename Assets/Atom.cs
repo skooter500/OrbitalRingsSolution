@@ -28,7 +28,7 @@ public class Atom : MonoBehaviour {
             proton.transform.parent = this.transform;
             proton.transform.position = transform.position;
             
-            float gap = 10.0f;
+            float gap = 15.0f;
             for (int ring = 0 ; ring < electronShells.Count; ring ++)
             {
                 int electrons = electronShells[ring];
